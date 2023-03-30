@@ -1,0 +1,21 @@
+a {
+	color: white;
+	text-decoration: none;
+}
+
+button {
+	padding: 12px 23px;
+	border: none;
+	outline: none;
+	font-size: 17px;
+	color: white;
+	background-color: #4CAF50;
+	margin: 15px;
+	cursor: pointer !important;
+}
+
+.input {
+	padding: 10px 17px;
+	border: 1px solid blue;
+	margin: 15px !important;
+}
